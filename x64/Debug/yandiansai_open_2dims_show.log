@@ -1,0 +1,5 @@
+﻿  main.cpp
+e:\visual studio\yandiansai_open_2dims_show\yandiansai_open_2dims_show\ipclocation.h(114): warning C4305: “初始化”: 从“double”到“float”截断
+e:\visual studio\yandiansai_open_2dims_show\yandiansai_open_2dims_show\main.cpp(109): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+e:\visual studio\yandiansai_open_2dims_show\yandiansai_open_2dims_show\main.cpp(308): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  yandiansai_open_2dims_show.vcxproj -> E:\visual studio\yandiansai_open_2dims_show\x64\Debug\yandiansai_open_2dims_show.exe

@@ -1,0 +1,10 @@
+﻿  main.cpp
+e:\visual studio\yandiansai_open_2dims_show\yandiansai_open_2dims_show\ipclocation.h(114): warning C4305: “初始化”: 从“double”到“float”截断
+e:\visual studio\yandiansai_open_2dims_show\yandiansai_open_2dims_show\main.cpp(103): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+e:\visual studio\yandiansai_open_2dims_show\yandiansai_open_2dims_show\main.cpp(313): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  正在生成代码
+  2 of 508 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  yandiansai_open_2dims_show.vcxproj -> E:\visual studio\yandiansai_open_2dims_show\x64\Release\yandiansai_open_2dims_show.exe
